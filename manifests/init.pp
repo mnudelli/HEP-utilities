@@ -37,5 +37,5 @@
 #
 class hep_utilities {
 
-
+include omsa_monitor
 }
